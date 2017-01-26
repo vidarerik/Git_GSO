@@ -2,11 +2,11 @@
 GitVerk
 
 #1. Hvað gera eftirfarandi Linux skipanir?
-	*cd	Change directory
-	*cd ~	Change directory (Home directory)
-	*ls	List contents of folder you are currently in
-	*pwd	Show path(sjá hvar þú ert)
-	*mkdir	Make directory
+	* cd	Change directory
+	* cd ~	Change directory (Home directory)
+	* ls	List contents of folder you are currently in
+	* pwd	Show path(sjá hvar þú ert)
+	* mkdir	Make directory
 
 #2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	*git clone	aftritar annað repository
@@ -29,5 +29,9 @@ GitVerk
 #6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	*Gott er að venja sig á að commita þegar það er bætt eða breytt kóðanum og maður er sáttur með útkomu
 
+#7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	*ef skrá er í working directory þá ert þú enn að vinna í henni
+	*ef skrá er í staging area er búið að gera git add og git commit en ekki git push
+	*ef skrá er komin í repository er búið að gera git push og hún komin á t.d. Github.com, repository er "geymsla" fyrir skrárnar í verkefninu
 
 
