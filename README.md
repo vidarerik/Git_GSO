@@ -18,5 +18,9 @@ GitVerk
 #3. Hver er munurinn á eftirfarandi git skipunum:
 	*a) git diff 		sýnir það sem var mergeað
 	*b) git diff --staged 	Til að sjá hvað það var breytt sem hefur verið stage-að
-	*c) git diff commit1 commit2	
+	*c) git diff commit1 commit2
+
+#4. Hvað er útgáfustýring (e.version control)? 
+	*Version control software allows you to track the changes you make to your code, as well as being able to easily backtrack these changes, share your development efforts and more
+
 
