@@ -41,3 +41,7 @@ GitVerk
 
 #9.	Hver fann upp GIT?
 	*Sá sem fann upp GIT heitir Linus Torvalds og hann er gull af manni.
+
+#10.	Hvar er GIT helst notað?
+	*GIT er helst notað fyrir hóp af fólki sem eru að vinna í sama project sem vilja keep on track of changes.
+
