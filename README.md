@@ -35,3 +35,6 @@ GitVerk
 	*ef skrá er komin í repository er búið að gera git push og hún komin á t.d. Github.com, repository er "geymsla" fyrir skrárnar í verkefninu
 
 
+#8.	Hvenær er sniðugt að nota greinar (branches)? 
+	*Þegar það er verið að gera responsive website er það hentugt vegna þess að þá er hægt að gera branch sem heitir mobile og vinna bara með mobile í því branchi
+	*Eða gera tvær útgáfur af því sem er að vinna með til þess að það sé hægt að sjá og samþykkja version af því sem allir eru sáttir með
