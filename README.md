@@ -38,3 +38,6 @@ GitVerk
 #8.	Hvenær er sniðugt að nota greinar (branches)? 
 	*Þegar það er verið að gera responsive website er það hentugt vegna þess að þá er hægt að gera branch sem heitir mobile og vinna bara með mobile í því branchi
 	*Eða gera tvær útgáfur af því sem er að vinna með til þess að það sé hægt að sjá og samþykkja version af því sem allir eru sáttir með
+
+#9.	Hver fann upp GIT?
+	*Sá sem fann upp GIT heitir Linus Torvalds og hann er gull af manni.
